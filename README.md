@@ -18,7 +18,7 @@ Guide to installing repository and required packages
 - Clone repository
 
   ```bash
-  git clone https://github.com/EricL521/model-ablater.git
+  git clone https://github.com/altrup/model-ablater.git
   ```
 - Enter newly created folder
   
