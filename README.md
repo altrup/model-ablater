@@ -1,6 +1,5 @@
 # AI Model Ablater
 A program that allows you to ablate and inspect AI models easily
-  - I'm envisioning that this would render the value of all the nodes upon giving a model a prompt, and then allow you to weaken the weights that result in the nodes being "activated"
 
 ### Example Image
 ![Image of Token Activation Viewer with Values](images/Token_Activation_Viewer_With_Value.png)
